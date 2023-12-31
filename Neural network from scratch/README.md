@@ -1,4 +1,4 @@
-# Simple MNIST NN from Scratch
+# Building Neural Network from Scratch to recognise numbers
 
 **This notebook demonstrates how to build a neural network from scratch to classify handwritten digits using the MNIST dataset. It's designed for educational purposes, emphasizing the underlying math and implementation details.**
 
